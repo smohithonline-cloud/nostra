@@ -1,0 +1,15 @@
+/* Google Font */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap');
+
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+/* Smooth hover for buttons */
+button{
+    transition: 0.3s;
+}
+
+button:hover{
+    transform: scale(1.05);
+}
